@@ -16,13 +16,6 @@ The key business objective is to understand how important events have historical
 
 The analysis will assist stakeholders in navigating the complexities of the volatile oil market by providing deeper insights into price fluctuations and their causes.
 
-## Key Dates
-
-- **Discussion on the case**: Wednesday, 19 Feb 2025  
-- **Interim Solution Submission**: Friday, 21 Feb 2025, 20:00 UTC  
-- **Final Submission**: Tuesday, 25 Feb 2025, 20:00 UTC
-
-## Learning Outcomes
 
 ### Skills:
 - Statistical modeling using time series analysis techniques.
@@ -83,7 +76,7 @@ The dataset includes historical daily Brent oil prices from **May 20, 1987, to S
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/<username>/brent-oil-price-analysis.git
+    git clone https:/Tewodros-agegnehu/github.com//brent-oil-price-analysis.git
     ```
 
 2. **Install dependencies**:
